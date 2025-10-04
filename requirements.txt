@@ -1,0 +1,5 @@
+pdf2docx
+pymupdf
+pdf2image
+pytesseract
+python-docx
